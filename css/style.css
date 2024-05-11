@@ -161,6 +161,7 @@ button:focus {
     margin-left: 156px;
     display: flex;
     gap: 24px;
+    width: calc((100% - 72px) / 4);
 }
 
 .company_values_header {
@@ -188,10 +189,6 @@ button:focus {
 .company_values_section{
     padding: 120px 0;
 
-}
-
-.company_values_list{
-    width: calc((100% - 72px) / 4);
 }
 
 #fake_header {
