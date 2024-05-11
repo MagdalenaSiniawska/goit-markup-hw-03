@@ -6,6 +6,10 @@ body{
     background-color: #FFFFFF;
 }
 
+img {
+    display: block;
+}
+
 .header_section{
 border-bottom: 1px solid #e7e9fc
 }
@@ -191,8 +195,17 @@ button:focus {
 }
 
 #fake_header {
-    color:#FFFFFF;
-    visibility: hidden;
+    color:#FFFFFF;    
+}
+
+.visually-hidden{
+    clip: rect(0 0 0 0);
+    clip-path: inset(100%);
+    height: 1px;
+    overflow: hidden;
+    position: absolute;
+    white-space: no wrap;
+    width: 1px;
 }
 
 .header_of_main_section {
@@ -251,11 +264,11 @@ button:focus {
     background-color: #FFFFFF;
     text-align: center;
     margin-left: 32px;
-    width: calc((100% - 72px) / 4);
+    width: calc((100%-72px)/4);
     border-radius: 0px 0px 4px 4px;
 }
 
-.worker_container{
+.worker_container {
     padding: 32px 16px;
 }
 
