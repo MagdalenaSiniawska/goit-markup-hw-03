@@ -316,9 +316,6 @@ button:focus {
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #434455;
-}
-
-p.portfolio_details.portfolio_content.portfolio {
     margin-bottom: 8px;
 }
 
