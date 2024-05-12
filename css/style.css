@@ -338,8 +338,11 @@ footer {
     text-transform: uppercase;
     color: #4D5AE5;
     margin-bottom: 16px;
-    display: inline-block;
     
+}
+
+a.logo_footer{
+    display: inline-block;
 }
 
 .footer_article {
