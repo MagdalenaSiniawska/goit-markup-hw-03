@@ -278,7 +278,7 @@ button:focus {
 }
 
 .worker_container {
-    padding: 32px 16px;
+    padding: 32px 0;
 }
 
 .portfolio_section {
