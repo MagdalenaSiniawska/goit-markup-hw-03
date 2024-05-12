@@ -282,8 +282,7 @@ button:focus {
 }
 
 .portfolio_section {
-    padding-top: 120px;
-    padding-bottom: 120px;
+    padding: 120px 0 120px 0;
 }
 
 .portfolio_list{
@@ -294,7 +293,7 @@ button:focus {
 }
 
 .portfolio{
-    width: calc(100% - 48px) / 3;
+    width: calc((100% - 48px) / 3);
 }
 
 .portfolio_content{
