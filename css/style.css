@@ -318,6 +318,10 @@ button:focus {
     color: #434455;
 }
 
+p.portfolio_details {
+    margin-bottom: 8px;
+}
+
 footer {
     font-family: inherit;
     text-align: left;
