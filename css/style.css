@@ -318,7 +318,7 @@ button:focus {
     color: #434455;
 }
 
-p.portfolio_details {
+p.portfolio_details.portfolio_content.portfolio {
     margin-bottom: 8px;
 }
 
