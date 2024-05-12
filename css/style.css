@@ -328,6 +328,7 @@ footer {
 }
 
 .logo_footer{
+    display: inline-block;
     text-decoration: none;
     margin-left: 156px;
     font-family: "Raleway", sans-serif;
@@ -338,7 +339,6 @@ footer {
     text-transform: uppercase;
     color: #4D5AE5;
     margin-bottom: 16px;
-    display: inline-block;
     
 }
 
