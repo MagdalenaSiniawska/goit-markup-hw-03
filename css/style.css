@@ -286,7 +286,6 @@ button:focus {
 }
 
 .portfolio {
-    text-align: left;
     width: calc((100% - 48px) / 3);
 }
 
@@ -301,7 +300,6 @@ button:focus {
     padding: 32px 16px;
     border: 1px solid #e7e9fc;
     border-top: none;
-    margin-bottom: 8px;
 
 }
 
@@ -318,6 +316,7 @@ button:focus {
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #434455;
+    margin-bottom: 8px;
 }
 
 footer {
@@ -338,9 +337,13 @@ footer {
     letter-spacing: 0.03em;
     text-transform: uppercase;
     color: #4D5AE5;
-    display: inline-block;
     margin-bottom: 16px;
+    display: inline-block;
     
+}
+
+.logo_part_footer{
+    display: inline-block;
 }
 
 .footer_article {
