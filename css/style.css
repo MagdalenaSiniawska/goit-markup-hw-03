@@ -21,7 +21,7 @@ border-bottom: 1px solid #e7e9fc
 }
 
 .container{
-    width: 1158px; 
+    width: 1440px; 
     margin: 0 auto;
     padding: 0 15px;
     display: flex;
@@ -328,7 +328,6 @@ footer {
 }
 
 .logo_footer{
-    display: inline-block;
     text-decoration: none;
     margin-left: 156px;
     font-family: "Raleway", sans-serif;
@@ -339,6 +338,7 @@ footer {
     text-transform: uppercase;
     color: #4D5AE5;
     margin-bottom: 16px;
+    display: inline-block;
     
 }
 
@@ -349,6 +349,6 @@ footer {
     letter-spacing: 0.02em;
     font-family: inherit;
     max-width: 264px;
-    display: inline-block;
+
 }
 
